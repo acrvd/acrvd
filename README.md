@@ -8,7 +8,7 @@
 
 ### Current Badges 🎖️
 <a href="https://www.credly.com/badges/0d173e26-ebd1-4106-a63f-3d6323d46f4a" target="_blank" rel="noreferrer"> 
-    <img src="https://images.credly.com/size/340x340/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png" alt="Kubernetes and Cloud Native Associate" width="120" height="120"/> </a>/>
+    <img src="https://images.credly.com/size/340x340/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png" alt="Kubernetes and Cloud Native Associate" width="120" height="120"/> </a>
 
 <a href="https://www.credly.com/badges/b3b6eed1-ee13-4694-a4d9-6bfc2e14bc6b" target="_blank" rel="noreferrer"> 
     <img src="https://images.credly.com/size/340x340/images/99289602-861e-4929-8277-773e63a2fa6f/image.png" alt="HashiCorp Certified: Terraform Associate" width="120" height="120"/> </a>

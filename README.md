@@ -2,9 +2,9 @@
 
 ### My name is Alexandre Cravid (aka Alex) and I am a Cloud Engineer ☁️
 
-- 🤩 Enthusiastic about Open Source projects and technologies (CNCF) focused on Automation, Infrastructure as Code, Configuration of Code, Containers, GitOps and DevOps culture.
-- 📚 Increasing skills on Architecting Cloud Native Solutions 
-- ⚡ Love sports, mainly, football ⚽️ and Muay-Thai 🥊
+- 🤩 Enthusiastic about Cloud and Open Source projects and technologies (CNCF) focused on Automation, Infrastructure as Code, Configuration as Code, Containers, GitOps and DevOps culture.
+- 📚 Gaining a deeper understanding of system design and architecture. 
+- ⚡ Love sports, specifically, football ⚽️ and Muay-Thai 🥊
 
 ### Current Badges 🎖️
 <a href="https://www.credly.com/badges/0d173e26-ebd1-4106-a63f-3d6323d46f4a" target="_blank" rel="noreferrer"> 
